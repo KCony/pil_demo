@@ -1,5 +1,4 @@
 from PIL import Image, ImageDraw
-import numpy
 import util
 import sys
 sys.path.append(r'..')
